@@ -9,11 +9,20 @@ public class Main {
         
         EmployeeSinglyLinkedLists list = new EmployeeSinglyLinkedLists();
 
+        System.out.println(list.isEmpty());
+
         list.addToFront(janeJones);
         list.addToFront(johnDoe);
         list.addToFront(marySmith);
         list.addToFront(mikeWilson);
+        
+        System.out.println(list.getSize());
 
+        list.printList();
+
+        list.removeFromFront();
+
+        System.out.println(list.getSize());
         list.printList();
     }
 }
