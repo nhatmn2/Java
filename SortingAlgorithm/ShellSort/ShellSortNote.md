@@ -11,4 +11,4 @@
 
 ----------------------------------------------------------------------------------------------------------------------
 # Knuth Sequence:
-![Knuth Sequence](../ShellSort/Knuth Sequnce.JPG)
+![Knuth Sequence](../ShellSort/Knuth Sequence.JPG)
