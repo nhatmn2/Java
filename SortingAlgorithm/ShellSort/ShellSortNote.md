@@ -15,3 +15,11 @@
 * Gap is calculate using (3<sup>k</sup> - 1)/2  
 * we set k based on the length of the array  
 * We want the gap to be as close as possible to the length of the array we want to sort, without being greater than the length.  
+* Example:  
+| k | Gap(interval) |
+|---|---------------|
+| 1 | 1             |
+| 2 | 4             |
+| 3 | 13            |
+| 4 | 40            |
+| 5 | 121           |
