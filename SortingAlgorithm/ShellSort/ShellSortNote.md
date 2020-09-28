@@ -15,11 +15,10 @@
 * Gap is calculate using (3<sup>k</sup> - 1)/2  
 * we set k based on the length of the array  
 * We want the gap to be as close as possible to the length of the array we want to sort, without being greater than the length.  
-* Example:
-| k 	| Gap(interval) 	|
-| ---	| ---------------	|
-| 1 	| 1             	|
-| 2 	| 4             	|
-| 3 	| 13            	|
-| 4 	| 40            	|
-| 5 	| 121           	|
+
+-----------------------------------------------------------------------------------------------------------------------
+# Shell Sort Note:
+* In-place algorithms
+* Difficult to nail down the time complexity because it will depend on the gap. Worst case: O(n<sup>2</sup>), but it can perform much better than that  
+* Doesn't require as much shifting as insertion sort, so it usually performs better  
+* Unstable algorithm.
