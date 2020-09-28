@@ -11,4 +11,4 @@
 
 ----------------------------------------------------------------------------------------------------------------------
 # Knuth Sequence:
-![Knuth Sequence](Knuth Sequnce.JPG)
+![Knuth Sequence](Java/SortingAlgorithm/ShellSort/Knuth Sequnce.JPG)
