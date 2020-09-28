@@ -11,4 +11,7 @@
 
 ----------------------------------------------------------------------------------------------------------------------
 # Knuth Sequence:
-![Knuth Sequence](https://github.com/nhatmn2/Java/blob/master/SortingAlgorithm/ShellSort/Knuth%20Sequence.JPG)
+![Knuth Sequence](https://github.com/nhatmn2/Java/blob/master/SortingAlgorithm/ShellSort/Knuth%20Sequence.JPG)  
+* Gap is calculate using (3<sup>k</sup> - 1)/2  
+* we set k based on the length of the array  
+* We want the gap to be as close as possible to the length of the array we want to sort, without being greater than the length.  
