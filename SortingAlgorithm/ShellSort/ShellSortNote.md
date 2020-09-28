@@ -11,4 +11,4 @@
 
 ----------------------------------------------------------------------------------------------------------------------
 # Knuth Sequence:
-![Knuth Sequence](../ShellSort/Knuth Sequence.JPG)
+![Knuth Sequence](https://github.com/nhatmn2/Java/blob/master/SortingAlgorithm/ShellSort/Knuth%20Sequence.JPG)
