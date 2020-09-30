@@ -7,7 +7,8 @@ public class FactorialAlgorithm {
     }
 
 
-    //NOTE: be careful when using recursive. If you don't have the exit condition the code will have stack overflow condition.
+    //NOTE: be careful when using recursive. If you don't have the exit condition the code will have stack overflow condition 
+    //because the recursive haven't returned the result untill it reaches the exit condition. All the result will be stored in the stack first.
     // 1! = 1 * 0! = 1
     // 2! = 2 * 1 = 2 * 1!;
     // 3! = 3 * 2 * 1 = 3 * 2!
