@@ -31,3 +31,9 @@
 * At this point, the temporary array contains the merged values in sorted order
 * We then copy this temporary array back to the original input array, at the correct positions.
 * If the left array is at positions x to y, and the right array is at position y+1 to z, then after the copy, positions x to z will be sorted in the original array.
+
+--------------------------------------------------------------------------------------------
+# Merge Sort Note 2:
+* Not an in-place algorithm
+* O(nlogn) - base 2. We're repeatedly dividing the array in half during the splitting phase 
+* Stable algorithm
