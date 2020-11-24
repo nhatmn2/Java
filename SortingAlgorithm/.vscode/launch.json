@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BubbleSort<SortingAlgorithm_2c37487>",
+            "request": "launch",
+            "mainClass": "BubbleSort.BubbleSort",
+            "projectName": "SortingAlgorithm_2c37487"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-InsertionSort<SortingAlgorithm_2c37487>",
+            "request": "launch",
+            "mainClass": "InsertionSort.InsertionSort",
+            "projectName": "SortingAlgorithm_2c37487"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FactorialAlgorithm<SortingAlgorithm_2c37487>",
+            "request": "launch",
+            "mainClass": "Recursion.FactorialAlgorithm",
+            "projectName": "SortingAlgorithm_2c37487"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SelectionSort<SortingAlgorithm_2c37487>",
+            "request": "launch",
+            "mainClass": "SelectionSort.SelectionSort",
+            "projectName": "SortingAlgorithm_2c37487"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ShellSort<SortingAlgorithm_2c37487>",
+            "request": "launch",
+            "mainClass": "ShellSort.ShellSort",
+            "projectName": "SortingAlgorithm_2c37487"
+        }
+    ]
+}
