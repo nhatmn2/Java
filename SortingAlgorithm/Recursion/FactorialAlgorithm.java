@@ -1,4 +1,4 @@
-package Recursion;
+package SortingAlgorithm.Recursion;
 
 public class FactorialAlgorithm {
     public static void main (String[] args){

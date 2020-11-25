@@ -1,4 +1,4 @@
-package MergeSort;
+package SortingAlgorithm.MergeSort;
 public class MergeSort{
     
 }
